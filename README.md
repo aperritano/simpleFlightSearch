@@ -1,3 +1,33 @@
+# simpleFlightSearch (Angular+Spring)
+
+Prerequistes 
+
+Maven: 3.6.1
+Angular: 8.0.4
+Node: 12.10.0
+Spring Boot: 2.2.0
+
+# simpleFlightSearch (Angular+Spring MVC)
+
+### Prerequisites 
+
+Maven: 3.6.1
+Angular: 8.0.4
+Node: 12.10.0
+Spring Boot: 2.2.0
+
+## Structure
+simpleFlightSearch
+		|_ client - angular client
+		|_server - spring mvc, spring boot
+
+## Running 
+
+in simpleFlightSearch directory run: 
+mvn spring-boot:run
+
+Then in a browser go to: http://localhost:8080
+
 # simpleFlightSearch
 I want to asses your ability to create a web application and web service. It truly is the bare minimum of knowledge necessary to be successful in this position. I don't want you to spend a lot of time on this. You should be able to do this in a few hours if the job is right for you.
 
@@ -23,4 +53,6 @@ You must use Angular 4 or higher. Style however you would like. You have total f
 	• Neatly display the results
 
 Create a pull request once you have it working. I will clone your repository, verify that it works, and evaluate it.
+
+
 
