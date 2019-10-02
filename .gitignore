@@ -1,3 +1,4 @@
+.mvn
 .idea
 *.iml
 node_modules

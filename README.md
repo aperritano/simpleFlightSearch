@@ -24,6 +24,10 @@ simpleFlightSearch
 ## Running 
 
 in simpleFlightSearch directory run: 
+mvn package
+mvn spring-boot:run
+
+Then in the server directory run:
 mvn spring-boot:run
 
 Then in a browser go to: http://localhost:8080
