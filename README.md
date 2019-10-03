@@ -22,7 +22,7 @@ Then in the server directory run:
 
 Then in a browser go to: http://localhost:8080
 
-![image](preview.png)
+![image](preview1.png)
 
 # simpleFlightSearch
 I want to asses your ability to create a web application and web service. It truly is the bare minimum of knowledge necessary to be successful in this position. I don't want you to spend a lot of time on this. You should be able to do this in a few hours if the job is right for you.
