@@ -2,19 +2,10 @@
 
 Prerequistes 
 
-Maven: 3.6.1
-Angular: 8.0.4
-Node: 12.10.0
-Spring Boot: 2.2.0
-
-# simpleFlightSearch (Angular+Spring MVC)
-
-### Prerequisites 
-
-Maven: 3.6.1
-Angular: 8.0.4
-Node: 12.10.0
-Spring Boot: 2.2.0
+* Maven: 3.6.1
+* Angular: 8.0.4
+* Node: 12.10.0
+* Spring Boot: 2.2.0
 
 ## Structure
 simpleFlightSearch
