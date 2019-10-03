@@ -13,9 +13,9 @@ Prerequistes
 
 ## Running 
 
-in simpleFlightSearch directory run: 
+In simpleFlightSearch directory run: 
+* mvn install 
 * mvn package
-* mvn spring-boot:run
 
 Then in the server directory run:
 * mvn spring-boot:run
